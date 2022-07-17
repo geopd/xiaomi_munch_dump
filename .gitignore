@@ -1,0 +1,11 @@
+product/priv-app/Messages/Messages.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+vendor/lib64/libxmi_high_dynamic_range_cdsp.so
+vendor/etc/camera/st_license.lic
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+modem.img
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+boot.img
